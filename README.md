@@ -23,23 +23,6 @@ It allows two users to play against each other by entering row and column positi
 3. Run the program
    java tic_tac_toe
 
-## Demo (Console)
-
-   |   |  
------------
-   |   |  
------------
-   |   |  
-
-Player1 (X), enter your move:
-1 1
-
-   |   |  
------------
-   | X |  
------------
-   |   |  
-
 ## Future Improvements
 
 1. Add support for single-player mode (AI)
